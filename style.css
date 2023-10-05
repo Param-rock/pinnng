@@ -1,0 +1,35 @@
+body
+{
+   text-align: center;
+}
+
+.heading
+{
+    width: 100%;
+    text-align: left;
+}
+
+.modal-dialog
+{
+    width: 90%;
+}
+
+.Instruction_image
+{
+    display: inline-block;
+    width: 45%; 
+}
+
+h4
+{
+    background-color: grey;
+    color: white;
+    line-height: 2;
+}
+
+canvas
+{
+    border: 3px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px white;
+}
